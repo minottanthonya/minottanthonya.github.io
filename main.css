@@ -2,8 +2,8 @@ body{
 	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: trebuchet MS;
-	background-color: #696969; 
+	font-family: arial;
+	background-image: img src="http://images.fondecranhd.net/forces-of-nature/jis1cpnbrde.jpg"; 
 }
 
 header {
@@ -67,10 +67,12 @@ header {
 }
 
 #welcome > header {
-	color: #FF8C00;
-	font-size: 20px;
+	color: #ff471a;
+	font-size: 25px;
 	font-weight: bold;
 	margin: bottom;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 
@@ -83,10 +85,12 @@ header {
 
 #recent-news > header{
 	margin-left: 5px;
-	color: #FF8C00;
-	font-size: 15px;
+	color: #ff471a;
+	font-size: 20px;
 	font-weight: bold;
 	margin: bottom;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 #recent-news > ul {
@@ -108,15 +112,19 @@ header {
 }
 
 #donut-header{
-	color: #FF8C00;
-	font-size: 15px;
+	color: #ff471a;
+	font-size: 18px;
 	margin: 0px 0px 3px 0px;
 	height: 25px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 #header-title{
-	background-color: #483D8B;
+	background-color: #660033;
 	border-radius: 5px;
+	font-size: 18px;
+	width: 70%;
 }
 
 .products{
@@ -129,13 +137,12 @@ header {
 	height: 150px;
 	width: 200px;
 
-	border-width: 2px;
+	border-width: 2.75px;
 	border-style: solid;
-	border-color: #FF8C00;
+	border-color: #660033;
 	margin: 3px 3px 3px 3px;
 	padding: 3px 3px 3px 3px;
 	border-radius: 5px;
-
 }
 
 .product-article-thumbnail{
@@ -145,7 +152,7 @@ header {
 
 .stuff{
 	width: 70%;
-	float: right;
+	float: left;
 }
 
 #customer-of-day{
@@ -155,7 +162,7 @@ header {
 }
 
 figcaption{
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: bold;
 	font-style: helvetica;
 	text-align: center;
@@ -164,12 +171,13 @@ figcaption{
 
 footer{
 	clear: both;
-	width: 100%;
-	background-color: #483D8B;
+	width: 50%;
+	background-color: #660033;
 	margin: 20px 0px 20px 0px;
 	padding: 5px 0px 0px 0px;
 	border-radius: 5px;
-	border
+	font-size: 16px;
+	font-weight: bold; 
 }
 
 
