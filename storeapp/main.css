@@ -119,10 +119,11 @@ header {
 }
 
 #header-title{
-	background-color: #660033;
+	background-color: #ff471a;
 	border-radius: 5px;
 	font-size: 18px;
 	width: 70%;
+	text-align: center;
 }
 
 .products{
@@ -137,15 +138,14 @@ header {
 
 	border-width: 2.75px;
 	border-style: solid;
-	border-color: #660033;
+	border-color: black;
 	margin: 3px 3px 3px 3px;
 	padding: 3px 3px 3px 3px;
 	border-radius: 5px;
 }
 
 .product-article-thumbnail{
-	width: 35px;
-	height: 35px;
+	width: 100%;
 }
 
 .stuff{
@@ -170,12 +170,13 @@ figcaption{
 footer{
 	clear: both;
 	width: 50%;
-	background-color: #660033;
+	background-color: #ff471a;
 	margin: 20px 0px 20px 0px;
 	padding: 5px 0px 0px 0px;
 	border-radius: 5px;
 	font-size: 16px;
 	font-weight: bold; 
+	text-align: center;
 }
 
 
