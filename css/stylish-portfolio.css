@@ -16,6 +16,7 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -179,6 +180,9 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.bg-primary {
+    background-color: #020d21;
+}
 /* Callout */
 
 .callout {
