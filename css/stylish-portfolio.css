@@ -251,8 +251,9 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 50px 0;
     background-color: #cac6c6;
+
 }
 
 #to-top {
@@ -261,3 +262,4 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
