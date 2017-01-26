@@ -135,7 +135,6 @@ header {
 .product-article{
 	height: 150px;
 	width: 200px;
-
 	border-width: 2.75px;
 	border-style: solid;
 	border-color: black;
@@ -148,15 +147,15 @@ header {
 	width: 100%;
 }
 
-.stuff{
+/*.stuff{
 	width: 70%;
-	/*float: left;*/
-}
+	float: center;
+}*/
 
-#customer-of-day{
-	width: 450px;
-	height: 450px;
+.customer-of-day{
+	width: 70%;
 	border-radius: 5px;
+	float: left;
 }
 
 figcaption{
