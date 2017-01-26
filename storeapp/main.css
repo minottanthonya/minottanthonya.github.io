@@ -150,7 +150,7 @@ header {
 
 .stuff{
 	width: 70%;
-	float: left;
+	/*float: left;*/
 }
 
 #customer-of-day{
