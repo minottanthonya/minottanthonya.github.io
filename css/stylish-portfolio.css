@@ -30,6 +30,29 @@ body {
     font-size: 4.5em;
     font-weight: 700;
 }
+.square {
+  float: left;
+  width: 30%;
+  padding-bottom: 30%;
+  position: relative;
+  margin: 1.66%;
+  overflow:hidden;
+  background-color: #c88787;
+  }
+  
+.squaretext {
+  text-align: right;
+  color: white;
+  font-family: 'Raleway', sans-serif !important;
+
+}
+.scontent {
+  position: absolute;
+  height: 80%;
+  width: 90%;
+  padding: 10% 5%;
+
+}
 
 /* Custom Button Styles */
 
