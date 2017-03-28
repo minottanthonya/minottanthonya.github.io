@@ -207,6 +207,19 @@ hr.small {
     background-color: #cac6c6;
 }
 
+.portfolio-item {
+    margin-bottom: 25px;
+    width: 80%;
+}
+
+.img-portfolio {
+    margin: 0 auto;
+}
+
+.img-portfolio:hover {
+    opacity: 0.5;
+}
+
 h3 { 
    position: absolute; 
    top: 200px; 
@@ -224,19 +237,6 @@ h3 span {
 
 h3 span.spacer {
    padding:0 5px;
-}
-
-.portfolio-item {
-    margin-bottom: 25px;
-    width: 80%;
-}
-
-.img-portfolio {
-    margin: 0 auto;
-}
-
-.img-portfolio:hover {
-    opacity: 0.5;
 }
 
 /* Call to Action */
