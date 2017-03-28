@@ -238,6 +238,13 @@ h3 span {
 h3 span.spacer {
    padding:0 5px;
 }*/
+.scontent {
+  position: absolute;
+  height: 80%;
+  width: 90%;
+  padding: 10% 5%;
+
+}
 
 /* Call to Action */
 
