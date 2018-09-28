@@ -147,14 +147,12 @@ header {
 	width: 100%;
 }
 
-/*.stuff{
-	width: 70%;
-	float: center;
-}*/
-
 .customer-of-day{
-	width: 70%;
-	border-radius: 10px;
+	height: 400px;
+	width: 470px;
+	border-radius: 20px;
+	margin: 3px 3px 3px 3px;
+	padding: 3px 3px 3px 3px;
 	float: left;
 }
 
